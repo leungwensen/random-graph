@@ -14,5 +14,8 @@ npm i random-graph
 ```javascript
 const randomGraph = require('random-graph')
 
-const tree = randomGraph.randomTree(10) // generate a tree with 10 nodes
+// generate a tree with 10 nodes
+const tree = randomGraph.randomTree({
+    size: 10
+})
 ```
