@@ -1,0 +1,22 @@
+{
+  "name": "random-graph",
+  "version": "0.0.1",
+  "description": "generate random graphs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungwensen/random-graph.git"
+  },
+  "keywords": [
+    "random-graph"
+  ],
+  "author": "leungwensen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leungwensen/random-graph/issues"
+  },
+  "homepage": "https://github.com/leungwensen/random-graph#readme"
+}
