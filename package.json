@@ -1,6 +1,6 @@
 {
   "name": "random-graph",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "generate random graphs",
   "main": "lib/index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/leungwensen/random-graph/issues"
   },
-  "homepage": "https://github.com/leungwensen/random-graph#readme"
+  "homepage": "https://github.com/leungwensen/random-graph#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0"
+  }
 }
